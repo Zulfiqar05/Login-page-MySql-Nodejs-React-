@@ -1,0 +1,26 @@
+.mainlogin{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+    height: 60vh;
+    border-radius: 20px;
+    border: 5px solid rgb(170, 164, 164);
+    background-color: gray;
+    
+}
+.mainlogin .LoginPage{
+    margin-top: 40px;
+}
+.mainlogin .LoginPage2{
+    margin-top: 35px;
+}
+.mainlogin .LoginPage3{
+    margin-top: 35px;
+}
+.mainlogin .LoginPage4{
+    margin-top: 35px;
+}
+button{
+    margin-top: 45px;
+}
